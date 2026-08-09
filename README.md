@@ -68,7 +68,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 ├── app.py                   # Streamlit dashboard source code
@@ -80,7 +80,7 @@ streamlit run app.py
 
 ---
 
-## 👤 Author
+##  Author
 
 * **Adarsh Shrikant Tiwari**
 * **Role:** Data Analyst / Developer
