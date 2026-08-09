@@ -73,8 +73,9 @@ streamlit run app.py
 ```text
 ├── app.py                   # Streamlit dashboard source code
 ├── hotel_bookings_data.csv  # Cleaned dataset
-├── README.md                # Project documentation
 ├── requirements.txt         # All required Libraries
+├── README.md                # Project documentation
+
 ```
 
 ---
